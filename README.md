@@ -1,5 +1,5 @@
 # Car-Number-Plate-Detection-
-Number Plate Detection is car license plate identification system made using OpenCV in python. It can be used to detect number plate from video as well as from image.
+Number Plate Detection is car license plate identification system made using OpenCV in Python. It can be used to detect number plate from video as well as from image.
 
 Detecting car number plates using OpenCV in Python typically involves the following steps:
 
